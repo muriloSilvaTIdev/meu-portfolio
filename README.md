@@ -2,7 +2,7 @@
 
 Olá! Sou o Murilo Almeida da Silva, estudante de Desenvolvimento de Software para Multiplataforma na Fatec Itaquera Prof. Miguel Reale. Este repositório contém o código-fonte do meu portfólio pessoal, onde apresento meus projetos e habilidades na área de tecnologia.
 
-🔗 **[Clique aqui para ver o portfólio online](COLE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES)**
+🔗 **[Clique aqui para ver o portfólio online](https://murilosilvatidev.github.io/meu-portfolio/)**
 
 ## 🛠️ Tecnologias Utilizadas
 * **Front-end:** HTML, CSS, JavaScript
@@ -14,10 +14,10 @@ Atualmente, busco uma oportunidade como Estagiário em Desenvolvimento de Softwa
 
 ## 🚀 Como executar este projeto localmente
 1. Faça o clone deste repositório:
-   `git clone https://github.com/muriloSilvaTIdev/portfolio.git`
+   `git clone [https://github.com/muriloSilvaTIdev/meu-portfolio.git](https://github.com/muriloSilvaTIdev/meu-portfolio.git)`
 2. Abra a pasta do projeto e execute o arquivo `index.html` no seu navegador.
 
 ---
 📫 **Contato:**
-* LinkedIn: [Seu Perfil do LinkedIn]
+* LinkedIn: [Murilo Almeida](https://www.linkedin.com/in/murilo-almeida-da-silva-3b4b98356)
 * Email: murilo102150@gmail.com
